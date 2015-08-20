@@ -12,3 +12,5 @@ if __name__ == '__main__':
     assert almost_equal(simple_areas(2, 3), 6), "Rectangle"
     assert almost_equal(simple_areas(3, 5, 4), 6), "Triangle"
     assert almost_equal(simple_areas(1.5, 2.5, 2), 1.5), "Small triangle"
+
+    print("Earn cool rewards by using the 'Check' button!")
