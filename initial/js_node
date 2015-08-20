@@ -19,4 +19,5 @@ if (!global.is_checking) {
     assert(almostEqual(simpleAreas(2, 3), 6), "Rectangle");
     assert(almostEqual(simpleAreas(3, 5, 4), 6), "Triangle");
     assert(almostEqual(simpleAreas(1.5, 2.5, 2), 1.5), "Small triangle");
+    console.log("All done? Earn rewards by using the 'Check' button!");
 }
